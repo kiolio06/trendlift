@@ -1,0 +1,19 @@
+# 🐍 Python virtual environments
+env/
+.venv/
+
+# 🔒 Environment variables
+.env
+
+# ⚙️ Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 📝 Logs y otros archivos temporales
+*.log
+
+# 📁 Archivos del sistema
+.DS_Store
+Thumbs.db
